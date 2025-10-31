@@ -2,7 +2,7 @@
 
 #### Install manually
 
-[`Install in Stylish extension`](https://userstyles.org/styles/281154/gemini-dracula)
+[`Install in Stylish extension`](https://userstyles.world/style/24931/dracula-theme-for-gemini)
 
 #### Activating theme
 
